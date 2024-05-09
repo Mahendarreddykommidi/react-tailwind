@@ -1,0 +1,7 @@
+@media screen ((max-width:660px)){
+
+    #cards{
+        display:grid;
+        grid-template-columns:repeat((2,1fr));
+    }
+}
